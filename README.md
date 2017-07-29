@@ -1,13 +1,13 @@
 
 # Code of Conduct
 
-This code of conduct outlines our expectations for participants within the Code Fellows community, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored.
+This code of conduct outlines our expectations for participants within the Alchemy Code Lab community, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored.
 
 Anyone who violates this code of conduct may be immediately removed from any current classes, refunded according to the terms of their student contract, and banned from the community.
 
 ## Community Goal: Be Kind
 
-Our community of staff, instructors, and current &amp; former students strives to be kind. This is the guiding principle for conducting oneself within the Code Fellows community.
+Our community of staff, instructors, and current &amp; former students strives to be kind. This is the guiding principle for conducting oneself within the Alchemy Code Lab community.
 
 While kindness can be generally understood, we recognize that kindness in a professional setting means (but is not limited to):
 
@@ -26,7 +26,7 @@ While kindness can be generally understood, we recognize that kindness in a prof
 
 Plagiarism is the re-use of someone else's code, without the permission or license of the author. Claiming someone else's work as your own is disrespectful to the author and to your learning process. "Cargo culting," or utilizing the techniques of another without applying your own thinking, is also considered plagiarism.
 
-Violating the terms of a license in a professional software development setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Code Fellows courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
+Violating the terms of a license in a professional software development setting can result in lawsuits and endanger businesses. Doing so in the classroom can result in loss of assignment points, bad references from instructors, removal from all Alchemy Code Lab courses, and community bans. Consequences will depend on severity and are at the discretion of the conduct review panel.
 
 ### Attribution
 
